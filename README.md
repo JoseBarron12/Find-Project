@@ -54,9 +54,7 @@ This project demonstrates proficiency in several key areas:
   - Addresses the challenge of efficiently searching for characters or strings within a given sentence.
   - Implements solutions for handling different input scenarios and providing meaningful output to the user.
 
-- **Documentation:**
-  - Provides clear and detailed documentation within the README file, explaining the program's features, usage, and design choices.
-  - Ensures that the code is well-documented with comments for ease of understanding.
+- **Documentation:** The accompanying PDF provides clear and detailed documentation, explaining the code's functionality, usage, and design choices.
 
 - **Testing:**
   - Underwent thorough testing with various test cases to ensure robustness and correctness.
